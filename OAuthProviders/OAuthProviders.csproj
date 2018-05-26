@@ -4,10 +4,14 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <AssemblyName>Nivatech.Framework.OAuthProviders</AssemblyName>
     <RootNamespace>Nivatech.Framework.OAuthProviders</RootNamespace>
+    <Company>Nivatech doo, Svilajnac</Company>
+    <Product>Nivatech OAuth Providers</Product>
+    <Description>.NEt Standard 2.0 OAuth Providers for LinkedIn and GitHub</Description>
+    <AssemblyVersion>2018.5.2018.1</AssemblyVersion>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Authentication.OAuth" Version="2.1.0-rc1-final" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.OAuth" Version="2.0.4" />
   </ItemGroup>
 
 </Project>
