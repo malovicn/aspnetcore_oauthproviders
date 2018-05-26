@@ -7,7 +7,12 @@
     <Company>Nivatech doo, Svilajnac</Company>
     <Product>Nivatech OAuth Providers</Product>
     <Description>.NEt Standard 2.0 OAuth Providers for LinkedIn and GitHub</Description>
-    <AssemblyVersion>2018.5.2018.1</AssemblyVersion>
+    <AssemblyVersion>2018.5.26.2</AssemblyVersion>
+    <FileVersion>2018.5.26.2</FileVersion>
+    <Version>2018.5.26.2</Version>
+    <RepositoryUrl>https://github.com/malovicn/aspnetcore_oauthproviders</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageTags>oath, linkedin, github</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
