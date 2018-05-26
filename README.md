@@ -1,2 +1,2 @@
-# aspnetcore_oauthproviders
+# ASP Net Core OAuth Providers
 A collection of AspNetCore OAuth providers - Linkedin, Github etc...
