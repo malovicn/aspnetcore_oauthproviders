@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Nivatech.Framework.OAuthProviders</AssemblyName>
+    <RootNamespace>Nivatech.Framework.OAuthProviders</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.OAuth" Version="2.1.0-rc1-final" />
+  </ItemGroup>
+
+</Project>
